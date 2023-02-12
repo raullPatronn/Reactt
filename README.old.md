@@ -1,2 +1,0 @@
-# Reactt
-Práctica 
